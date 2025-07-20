@@ -1,0 +1,15 @@
+git clone https://github.com/your-username/Pipeline-Processor-CODTECH.git
+cd Pipeline-Processor-CODTECH
+
+# Create folders
+mkdir src testbench reports
+
+# Copy your code
+cp /path/to/pipeline_processor.v src/
+cp /path/to/pipeline_tb.v testbench/
+cp /path/to/simulation_output.pdf reports/
+
+# Push to GitHub
+git add .
+git commit -m "Added pipeline processor design and simulation"
+git push
