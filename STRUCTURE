@@ -1,0 +1,12 @@
+Pipeline-Processor-CODTECH/
+│
+├── src/
+│   └── pipeline_processor.v
+│
+├── testbench/
+│   └── pipeline_tb.v
+│
+├── reports/
+│   └── simulation_output.pdf
+│
+└── README.md
